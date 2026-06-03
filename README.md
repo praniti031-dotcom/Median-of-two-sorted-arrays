@@ -1,2 +1,2 @@
 # Median-of-two-sorted-arrays
-Leetcode Problem
+Solved LeetCode 4 - Median of Two Sorted Arrays using Binary Search
